@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "vCfnOlQPt3XgiyxGlqEh0FxcHKgBtsbg3oHrx/tIG+LYp4DMzBpRmF73sSYF4tAeeJ35J1is2AOhFASFhh1Jcg==",
   "success": true,
   "projectFilePath": "E:\\Git\\WebApi\\StudentManagementSystem.csproj",
@@ -103,6 +104,18 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
+=======
+  "dgSpecHash": "rje9EBjogsOUOnqPTq9LwBm9HIoV7HjNjyNiy2NTfL35iuPdVECP/b/RhNlwFx2q9F8KY6cNQjSrEFpAGJGIIg==",
+  "success": true,
+  "projectFilePath": "E:\\Git\\WebApi\\StudentManagementSystem\\StudentManagementSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SFI19\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\SFI19\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\SFI19\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\SFI19\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\SFI19\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\SFI19\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+>>>>>>> 38f920b704008eac4731ce0a0d0f64b4b5f347b8
   ],
   "logs": []
 }
